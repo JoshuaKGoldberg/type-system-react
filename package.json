@@ -1,0 +1,6 @@
+{
+  "name": "type-system-react",
+  "description": "A \"fun\" implementation of a JSX rendering engine similar to React's ... in the TypeScript type system.",
+  "license": "MIT",
+  "type": "module"
+}
